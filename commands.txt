@@ -1,0 +1,78 @@
+AI Personal Assistant Commands
+==========================
+
+Application Commands:
+-------------------
+1. "open chrome" or "open browser" - Opens Google Chrome
+2. "open edge" or "open microsoft edge" - Opens Microsoft Edge
+3. "open whatsapp" - Opens WhatsApp
+4. "open notepad" - Opens Notepad
+5. "open calculator" - Opens Calculator
+6. "open paint" - Opens MS Paint
+7. "open word" - Opens Microsoft Word
+8. "open excel" - Opens Microsoft Excel
+9. "open powerpoint" - Opens Microsoft PowerPoint
+10. "open command prompt" or "open cmd" - Opens Command Prompt
+11. "open settings" - Opens Windows Settings
+12. "open task manager" - Opens Task Manager
+
+Weather Information:
+------------------
+13. "what's the weather" - Gets weather for default city (London)
+14. "what's the weather in [city]" - Gets weather for specified city
+    Example: "what's the weather in New York"
+
+Time and Date:
+-------------
+15. "what's the time" - Tells current time
+16. "what's the date" - Tells current date and day of week
+
+System Information:
+-----------------
+17. "system status" or "system info" - Shows CPU and memory usage
+
+Wikipedia Search:
+---------------
+18. "search wikipedia for [topic]" - Gives a brief summary from Wikipedia
+    Example: "search wikipedia for Albert Einstein"
+
+Volume Controls:
+--------------
+19. "volume up" - Increases system volume
+20. "volume down" - Decreases system volume
+21. "volume mute" - Mutes/unmutes system volume
+
+Screenshots:
+-----------
+22. "take screenshot" - Takes a screenshot and saves it to desktop
+
+Fun Commands:
+-----------
+23. "tell me a joke" - Tells a random computer-related joke
+
+Exit Command:
+-----------
+24. "stop" or "exit" - Closes the AI assistant
+
+System Control:
+-------------
+25. "shutdown system" or "shut down computer" - Shuts down the computer
+26. "sleep system" or "sleep mode" - Puts the computer to sleep
+
+Brightness Controls:
+-----------------
+27. "brightness up" or "increase brightness" - Increases screen brightness
+28. "brightness down" or "decrease brightness" - Decreases screen brightness
+
+Debug and Test Commands:
+---------------------
+29. "debug mode on" or "enable debug mode" - Enables detailed error logging
+30. "debug mode off" or "disable debug mode" - Disables detailed error logging
+31. "run tests" - Runs all unit tests and reports results
+
+Note: Commands are case-insensitive. You can speak naturally, and the assistant will understand variations of these commands.
+
+Debug Features:
+- When debug mode is enabled, detailed error information is logged to 'assistant.log'
+- Test results will be displayed in the console and spoken by the assistant
+- Stack traces are available in debug mode for troubleshooting
